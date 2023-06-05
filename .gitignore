@@ -162,5 +162,8 @@ cython_debug/
 # extra files
 /.data
 /runs
+/data
+/model
+enc-dec-mt.ipynb
 
 my_checkpoint.pth.tar
